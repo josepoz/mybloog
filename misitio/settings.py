@@ -25,7 +25,7 @@ SECRET_KEY = '1@$sf2_9%9^q-@#xfhcitlfjnm!smrnviypi5s4j4r03xcr6e)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jpoz.pythonanywhere.com',]
 
 
 # Application definition
